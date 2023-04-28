@@ -197,10 +197,10 @@ int main(void)
 }
 
 
-```
+
 Programmed by: K R HASHISH VIDYA SAGAR
 Register no. : 212222230047
-
+```
 
 ## Output screen shots of proteus  :
  ![pm gc xp 4 1](https://user-images.githubusercontent.com/118707521/235072950-38c93ace-e0ef-49fb-a132-b1f7a7f7c630.png)
