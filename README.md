@@ -188,7 +188,7 @@ int main(void)
   	  Lcd_HandleTypeDef lcd;
   	  lcd=Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
   	  Lcd_cursor(&lcd,0,1);
-  	  Lcd_string(&lcd,"DEPT- AIDS");
+  	  Lcd_string(&lcd,"SEC - AIDS");
   while (1)
   {
     	Lcd_cursor(&lcd,1,1);
@@ -202,6 +202,7 @@ Register no. : 212222230047
 ```
 
 ## Output screen shots of proteus  :
+![pmc xp 4 2](https://user-images.githubusercontent.com/118707521/235214441-8a1c8a54-cf4c-465e-a9a4-6e210d4709e4.jpg)
 
 
  
@@ -209,6 +210,7 @@ Register no. : 212222230047
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+![pmc xp 4 1](https://user-images.githubusercontent.com/118707521/235214480-ad089aee-2181-43b8-a99d-e3ab293170ef.jpg)
 
  
  
