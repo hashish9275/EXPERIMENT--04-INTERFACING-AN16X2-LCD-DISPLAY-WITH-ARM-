@@ -201,9 +201,15 @@ Register no. : 212222230047
 
 
 ## Output screen shots of proteus  :
+ ![pm gc xp 4 1](https://user-images.githubusercontent.com/118707521/235072950-38c93ace-e0ef-49fb-a132-b1f7a7f7c630.png)
+
+ 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
+ ![pm gc xp 4 sc](https://user-images.githubusercontent.com/118707521/235072970-19976a2c-2be6-4c0a-a8b2-5964e9f51719.png)
+
  
  
 ## Result :
