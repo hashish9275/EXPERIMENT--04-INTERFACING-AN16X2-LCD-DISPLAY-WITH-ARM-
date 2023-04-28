@@ -188,14 +188,13 @@ int main(void)
   	  Lcd_HandleTypeDef lcd;
   	  lcd=Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
   	  Lcd_cursor(&lcd,0,1);
-  	  Lcd_string(&lcd,"SEC - AIML");
+  	  Lcd_string(&lcd,"DEPT- AIDS");
   while (1)
   {
     	Lcd_cursor(&lcd,1,1);
-    	  	  Lcd_string(&lcd,"G.Chethan Kumar");
+    	  	  Lcd_string(&lcd,"K.R.Hashish Vidya Sagar");
   }
 }
-
 
 
 Programmed by: K R HASHISH VIDYA SAGAR
@@ -203,14 +202,13 @@ Register no. : 212222230047
 ```
 
 ## Output screen shots of proteus  :
- ![pm gc xp 4 1](https://user-images.githubusercontent.com/118707521/235072950-38c93ace-e0ef-49fb-a132-b1f7a7f7c630.png)
+
 
  
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- ![pm gc xp 4 sc](https://user-images.githubusercontent.com/118707521/235072970-19976a2c-2be6-4c0a-a8b2-5964e9f51719.png)
 
  
  
